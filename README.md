@@ -1,13 +1,4 @@
-# Notebooks
 
-This is a repository for a BloomTech advanced projects confined to a single notebook 
-
-## Contents
-
-* IBM Attrition
-* Leaf Classification
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 ### IBM Attrition
 
@@ -18,9 +9,3 @@ For this notebook, I use the IMB Attrition dataset (available on Kaggle) to do t
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-###  Leaf Identification (in progress) 
-
-For this notebook, I use the Leaf Classification dataset from a Kaggle Challenge to do the following:
-* Build a Multi-Layer Perceptron (MLP) model 
-* Build a Convolutional Neural Netwok (CNN)-based model
-* Compare predictive performace of the two models
