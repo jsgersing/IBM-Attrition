@@ -1,6 +1,6 @@
 
 
-### IBM Attrition
+# IBM Attrition
 
 For this notebook, I use the IMB Attrition dataset (available on Kaggle) to do the following:
 * Compare the predictive performance of Logistic Regression, Random Forest, and XGBoost models using Confusions Matrices and ROC Curves 
@@ -8,4 +8,7 @@ For this notebook, I use the IMB Attrition dataset (available on Kaggle) to do t
 * Further explore feature importance through visualization tools PDP Plots, PDP Interaction Plots, and Shapley Waterfall Plots
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+## Insights
+
 
